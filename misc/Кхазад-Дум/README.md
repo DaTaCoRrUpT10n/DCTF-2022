@@ -20,5 +20,6 @@ Im Narvi hain echant: Celebrimbor o Eregion teithant i thiw hin.
   ![Screenshot](image/2.png)
 * При нажатии на эту звезда появляется значок микрофона
 * Проговариваем слово mellon
+
 * Находим флаг
   ![Screenshot](image/3.png)
