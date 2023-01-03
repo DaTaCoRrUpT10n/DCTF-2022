@@ -1,1 +1,0 @@
-DCTF{You_found_the_flag_my_young_friend}
