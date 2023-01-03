@@ -1,1 +1,0 @@
-DCTF{no_EternalBlue}
