@@ -15,10 +15,10 @@ Im Narvi hain echant: Celebrimbor o Eregion teithant i thiw hin.
 ```
 * Решение загадки состоит в произнесении слова mellon
 * Открываем приложение и видим ворота
-  ![Screenshot](image/1.png)
+  <img src="image/1.png" width="400"/>
 * В середине ворот изображена восьмиконечная звезда, при наведении на которую ворота загораются
-  ![Screenshot](image/2.png)
+  <img src="image/2.png" width="400"/>
 * При нажатии на эту звезда появляется значок микрофона
 * Проговариваем слово mellon
 * Находим флаг
-  ![Screenshot](image/3.png)
+  <img src="image/3.png" width="400"/>
