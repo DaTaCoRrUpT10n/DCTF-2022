@@ -22,4 +22,3 @@ Im Narvi hain echant: Celebrimbor o Eregion teithant i thiw hin.
 * Проговариваем слово mellon
 * Находим флаг
   ![Screenshot](image/3.png)
-*
