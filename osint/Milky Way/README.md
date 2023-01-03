@@ -1,7 +1,7 @@
 # Краткая инструкция:
  
 * Даётся фото самолёта
-  ![Screenshot](image/FjBGwXbXoAAi7Ng.jpg)
+  ![Screenshot](image/FjBGwXbXoAAi7Ng.png)
 * Astrometry.net позволит нам загрузить фотографию и нарисовать соответствующие созвездия. 
 * Также дает нам кучу файлов звездных карт, которые мы можем использовать позже
   ![Screenshot](image/1.png)
