@@ -12,4 +12,4 @@ https://drive.google.com/file/d/1q8vlAO7n0Ari_BrUnQUwXI8vKwtg515D/view?usp=share
 ```
 
 ## Видеорешение
-[![writeup](https://imgur.com/a/JPKSFfU)](https://youtu.be/MiW70F4HaFs)
+[![writeup](https://i.imgur.com/ZECHkDU.png)](https://youtu.be/MiW70F4HaFs)
