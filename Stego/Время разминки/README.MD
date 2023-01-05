@@ -1,4 +1,4 @@
-#Время разминки
+# Время разминки
 * За спиной была половина соревнований! Поэтому мы решили, что вам пора прогуляться и спрятали QR-CODE прямо в техноковоркинге.
 ![kG6oXzn0qNw](https://user-images.githubusercontent.com/65303418/210706784-f56d4506-daaa-433d-b99c-e01dc25e28b3.jpg)
 ![image](https://user-images.githubusercontent.com/65303418/210706197-289dbfee-ea5c-4a30-b99c-6ebc93a81e60.png)
@@ -7,4 +7,4 @@
 * Добавляем поисковые узоры и пытаемся отсканировать наш код. Неудача? Тогда продолжаем. Переходим на следущую платформу: https://merricx.github.io/qrazybox/ и собрираем QR код с нуля взяв за основу уже полученный QR-code. 
 ![image](https://user-images.githubusercontent.com/65303418/210707388-3f0d108d-de9e-42a7-be10-9546b5357df9.png)
 ![image](https://user-images.githubusercontent.com/65303418/210707421-feab5176-859a-40fe-87f3-8be84ccc4536.png)
-Сканируем код и получаем флаг! Поздравляю, вы прекрасны
+* Сканируем код и получаем флаг! Поздравляю, вы прекрасны
