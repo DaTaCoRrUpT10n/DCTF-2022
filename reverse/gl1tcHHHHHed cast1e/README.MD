@@ -7,9 +7,8 @@
   <img width="40%" src="https://user-images.githubusercontent.com/65303418/210688865-678635f6-619c-4c24-aefa-42e453edd06f.png">
   <img width="40%" src="https://user-images.githubusercontent.com/65303418/210687945-4b043491-be8a-418c-b673-1ed866bedc19.png"> 
 </p>
-Второй способ. Изучив файлы игры, обнаруживаем, что в /www/data/ находяться незашированные JSON-файлы, которые описываюи различных объекты в игре.
-
-
+Второй способ. Изучив файлы игры, обнаруживаем, что в /www/data/ находяться незашированные JSON-файлы, которые описываюи различных объекты в игре. Изменим в Enemies.json значение HP босса на 1. Теперь мы с лёгкостью сможем его победить.
 <p align="center">
    <img width="40%" src="https://user-images.githubusercontent.com/65303418/210690430-3e5b05b7-0bf0-4008-bdb3-9e68e5cfc3f7.png">
+   <img width="40%" src="https://user-images.githubusercontent.com/65303418/210691052-6264b324-8cb5-409d-8bdc-38c61fca48b7.png">
 </p>
