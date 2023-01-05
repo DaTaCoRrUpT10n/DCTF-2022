@@ -4,8 +4,8 @@
 Запустив игру, мы осматриваем локацию и понимаем, что на ней находиться только один босс - хранитель флагов. Попытка его убить заканчиваться провалом и поэтому мы пытаемся убить его иными способами.
 *Первый способ. Перед запуском, мы видим логоптим и надпись RPG Maker MV. Узнаём, что это программа, которая служит для создания игр жанра JRPG. На github находим плагин с чит-меню: https://github.com/emerladCoder/RPG-Maker-MV-Cheat-Menu-Plugin. Следуя инструкции к плагину, устанавливаем его в нашу игру. Далее начинаем бой с боссом, нажимаем [1], ищем вкладку 'Enemy HP' и устанавливаем HP босса на 0, нажав [4]. Получаем наш первый флаг!
 <p align="center">
-  <img width="50%" src="https://user-images.githubusercontent.com/65303418/210687945-4b043491-be8a-418c-b673-1ed866bedc19.png"> 
-  <img width="50%" src="https://user-images.githubusercontent.com/65303418/210688865-678635f6-619c-4c24-aefa-42e453edd06f.png">
+   <img width="33%" src="https://user-images.githubusercontent.com/65303418/210688865-678635f6-619c-4c24-aefa-42e453edd06f.png">
+  <img width="33%" src="https://user-images.githubusercontent.com/65303418/210687945-4b043491-be8a-418c-b673-1ed866bedc19.png"> 
 </p>
 
 
